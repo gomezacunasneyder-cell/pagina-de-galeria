@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú Sticky Dinámico</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <nav class="navbar">
+        <a class="logo" href="#inicio">sobre mi</a>
+        <div class="nav-links">
+            <a href="file:///c%3A/Users/steve/Documents/index-stevenzz/pagina/html-imagenes/index-stevenzz/pagina/pagina.html">Inicio</a>
+            <a href="#habilidades">Habilidades</a>
+            <a href="#perfil">Perfil</a>
+            <a href="#imagenes">Imagenes</a>
+        </div>
+    </nav>
+    <div class="grid-container">
+        <div class="grid-card img">
+            <img src="https://tse2.mm.bing.net/th/id/OIP.yfPEmRyL8npoGddtfEXG5wHaEK?cb=thfc1falcon&rs=1&pid=ImgDetMain&o=7&rm=30" alt="Imagen 2">
+        </div>
+        <div class="grid-card img">
+            <img src="https://tse3.mm.bing.net/th/id/OIP.Wex5vnvpuEzWciekf7kOHwHaE8?cb=thfc1falcon&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Imagen 2">
+        </div>
+        <div class="grid-card">
+            <img src="https://cdn.buttercms.com/8zLSDoDRm6tOMUQivEjQ" alt="Imagen 2">
+        </div>
+        <div class="grid-card">
+            <img src="https://tse2.mm.bing.net/th/id/OIP.EcHUBq0dx6xtLrfSxPoH1QHaEc?cb=thfc1falcon&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Imagen 2">
+        </div>
+        <div class="grid-card">
+            <img src="https://cdn.pixabay.com/photo/2022/06/23/14/46/jdm-7279984_1280.jpg" alt="Imagen 5">
+        </div>
+        <div class="grid-card">
+            <img src="https://tse1.mm.bing.net/th/id/OIP.OGGhsMsPKQ_2kzaiHbdDegHaE8?cb=thfc1falcon&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Imagen 2">
+        </div>
+        <div class="grid-card">
+            <img src="https://tse2.mm.bing.net/th/id/OIP.ysXEgS9vDqaLVQkhXlHaTQHaEK?cb=thfc1falcon&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Imagen 2">
+        </div>
+    </div>
+</body>
+</html>
